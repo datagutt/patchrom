@@ -11,7 +11,7 @@
   <project path="build" name="MiCode/patchrom_build">
     <copyfile src="makefile" dest="Makefile" />
   </project>
-  <project path="manifest" name="MiCode/patchrom" />
+  <project path="manifest" name="datagutt/patchrom" />
   <project path="android" name="MiCode/patchrom_android" />
   <!--<project path="mx" name="MiCode/patchrom_mx" />-->
   <project path="miui" name="MiCode/patchrom_miui" />
