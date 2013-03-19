@@ -4,7 +4,7 @@
   <remote name="github"
            fetch=".." />
 
-  <default revision="refs/heads/ics"
+  <default revision="refs/heads/jellybean"
            remote="github"
            sync-j="4" />
 
@@ -13,6 +13,7 @@
   </project>
   <project path="manifest" name="datagutt/patchrom" />
   <project path="android" name="MiCode/patchrom_android" />
+  <project path="i9300" name="MiCode/patchrom_i9300" />
   <!--<project path="mx" name="MiCode/patchrom_mx" />-->
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
